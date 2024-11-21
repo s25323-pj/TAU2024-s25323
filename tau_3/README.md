@@ -42,3 +42,5 @@ Celem jest generowanie planszy i implementacja podstawowych ruchów na planszy z
 ### **6. GitHub Actions**
 - Workflow automatycznie uruchamia testy przy każdym pushu do repozytorium.
 
+https://github.com/user-attachments/assets/09f85903-09a3-491e-a532-696e887ac93a
+
